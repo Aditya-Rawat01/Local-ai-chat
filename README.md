@@ -1,7 +1,7 @@
 Steps to run this locally:
-pull this repo
-then install all dependencies
-create a gemini 1.5 flash key for free from google ai studio
+pull this repo.
+Then install all dependencies.
+Create a gemini 1.5 flash key for free from google ai studio and put that key in .env file.
 thats it, it should run locally.
 
 
